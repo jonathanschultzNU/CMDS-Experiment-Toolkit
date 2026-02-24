@@ -1,7 +1,10 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors: Jonathan Schultz
-orcid: https://orcid.org/0000-0002-3386-5460
-title: jonathanschultzNU/MDS_EXP: v1.0
+authors:
+  - family-names: Schultz
+    given-names: Jonathan
+    orcid: https://orcid.org/0000-0002-3386-5460
+title: "CMDS-Experiment-Toolkit"
 version: v1.0
 date-released: 2022-06-27
+repository-code: https://github.com/jonathanschultzNU/CMDS-Experiment-Toolkit
