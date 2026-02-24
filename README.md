@@ -52,7 +52,7 @@ See the `README.md` in each `Backend/` subdirectory for per-function documentati
 
 The oscillation-associated spectra (OAS) module is described in:
 
-> Schultz, J. *et al.* "Phonon-induced plasmon-exciton coupling changes probed via oscillation-associated spectra." *J. Chem. Phys.* (2019). https://doi.org/10.1063/1.5116836
+> Kirschner, M. S. *et al.* "Phonon-induced plasmon-exciton coupling changes probed via oscillation-associated spectra." *J. Chem. Phys.* (2019). https://doi.org/10.1063/1.5116836
 
 ## Citing This Work
 

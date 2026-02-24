@@ -4,7 +4,7 @@ This directory contains the implementation of the Oscillation-Associated Spectra
 
 ## Publication
 
-> Schultz, J. *et al.* "Phonon-induced plasmon-exciton coupling changes probed via oscillation-associated spectra." *J. Chem. Phys.* (2019). https://doi.org/10.1063/1.5116836
+> Kirschner, M. S. *et al.* "Phonon-induced plasmon-exciton coupling changes probed via oscillation-associated spectra." *J. Chem. Phys.* (2019). https://doi.org/10.1063/1.5116836
 
 ## Files
 
